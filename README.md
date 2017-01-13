@@ -26,7 +26,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 * CodeBook.md --  describes the variables, the data, and any transformations or work that performed to clean up the data.
 * run_analysis.R -- R script
 
-## explanation of the analysis file
+## Explanation of the analysis file
 
 The R script, run_analysis.R, does the following:
 
